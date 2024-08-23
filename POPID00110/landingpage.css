@@ -48,5 +48,11 @@ button{
     font-weight: bold;
 }
 select{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: transparent;
+    color: #fff 
     
+}
+.op{
+    color: black;
 }
