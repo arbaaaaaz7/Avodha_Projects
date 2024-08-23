@@ -1,0 +1,52 @@
+body{
+    background-color: black;
+    background-image:url(./Assets/1_Hl5ZDBVbcxlUdc2CP7BWCw.jpg) ;
+    background-size: cover;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color:transparent ;
+}
+
+header nav a{
+    color: #fff;
+    margin-left: 20px;
+    text-decoration: none;
+    font-size: large;
+}
+.content{
+    position: relative;
+    width: 50%;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content:  left;
+}
+
+.fcontent{
+    margin-top: 40px;
+    color: #fff;
+}
+.sign{
+    display: flex;
+    justify-content: center;
+
+}
+.mail{
+    background-color:transparent ;
+    padding: 10px;
+    padding-left: 70px;
+    color: #fff;
+}
+button{
+    background-color: transparent;
+    color: #fff;
+    font-size: large;
+    font-weight: bold;
+}
+select{
+    
+}
