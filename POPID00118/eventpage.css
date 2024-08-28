@@ -1,0 +1,69 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: hsl(0, 23%, 97%);
+    background-color: #f4f4f4;
+    background-image: url(./Assets/5b2fc74b7d0a05236f37b98b9e0f0d5e.jpg);
+}
+
+header {
+    background: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    background-image: url(./Assets/2017-funny-halloween-vector-background.jpg);
+    font-family: fantasy;
+
+}
+
+header h1 {
+    margin-bottom: 10px;
+}
+
+header p {
+    font-size: 1.2em;
+}
+
+.event-details, .schedule, .registration {
+    background: #fff;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-image: url(./Assets/7085031465b6b2b795d49b606b2ff5fe.jpeg);
+}
+
+.event-details h2, .schedule h2, .registration h2 {
+    color: hsl(0, 43%, 99%);
+}
+
+ul {
+    list-style-type: none;
+}
+
+ul li {
+    padding: 10px 0;
+}
+
+.registration .button {
+    display: inline-block;
+    padding: 10px 20px;
+    background:#c46902;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.registration .button:hover {
+    background: #2ab300;
+}
+
+
